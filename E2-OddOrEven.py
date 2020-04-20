@@ -31,4 +31,3 @@ answerCheck = even(num, check)
 
 print(answerCheck)
 
-
